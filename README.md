@@ -1,7 +1,3 @@
-<p align="center">
-<img alt="logo" src="https://raw.githubusercontent.com/wiki/codestates/bringtheumbrella-client/img/logo.png?token=ALXAR7B7UAR5SYPW2G4AE4S7U7SA4" width="500px"/>
-</p>
-
 <h1 align="center">👋 환영합니다. <a href="https://github.com/codestates/bringtheumbrella-client/wiki">우산챙겨</a> 프로젝트입니다. </h1>
 ​
 ​<p align="center">
@@ -300,22 +296,8 @@ src
 | --------- | ----------------------------------------- | ------------------------------------------------ |
 | 😀 김도움 | [velog](https://velog.io/@kdo0129)        | [@doumkim](https://github.com/doumkim)           |
 | 😁 김태원 | [tistory](https://commonseed.tistory.com) | [@ktw3588](https://github.com/ktw3588)           |
-| 🤗 김병준 | [gatsby](https://spicycookie.me)          | [@billowycloud](https://github.com/billowycloud) |
+| 🤗 김병준 | [gatsby](https://spicycookie.me)          | [@b0jun](https://github.com/b0jun) |
 
-​
-
-## 📃 Detail Page
-
-### 👉 [Go To Wiki](https://github.com/codestates/bringtheumbrella-client/wiki)
-
-<br />
-​
-
-## 🚨 Contributing
-
-Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/codestates/bringtheumbrella-client/issues).
-​
-<br />
 
 ## 🙇‍♂ Show your support
 
@@ -325,4 +307,4 @@ Give a ⭐️ if this project helped you!
 
 ## 💫 License
 
-Copyright © 2020 [삼각김밥](https://github.com/doumkim).<br />
+Copyright © 2020 삼각김밥.<br />
