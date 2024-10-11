@@ -1,13 +1,9 @@
-<h1 align="center">👋 환영합니다. <a href="https://github.com/codestates/bringtheumbrella-client/wiki">우산챙겨</a> 프로젝트입니다. </h1>
+<h1 align="center">👋 환영합니다. 우산챙겨 프로젝트입니다. </h1>
 ​
 ​<p align="center">
 <img alt="Version" src="https://img.shields.io/badge/version-1.0.0-blue.svg?cacheSeconds=2592000" />
-<a href="https://github.com/codestates/bringtheumbrella-server#readme" target="_blank">
 <img alt="Documentation" src="https://img.shields.io/badge/documentation-yes-brightgreen.svg" />
-</a>
-<a href="https://github.com/codestates/bringtheumbrella-server/graphs/commit-activity" target="_blank">
 <img alt="Maintenance" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" />
-</a>
 <img alt="node-v12.19.0" src="https://img.shields.io/badge/node-v12.19.0-3f72af" />
 <img alt="npm-v6.14.8" src="https://img.shields.io/badge/npm-v6.14.8-aa96da" />
 <img alt="expo-sdk-v39.0.3" src="https://img.shields.io/badge/expo--sdk-v39.0.3-ffc7c7" />
